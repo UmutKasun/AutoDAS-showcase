@@ -10,7 +10,7 @@ Auto DAS is a computer vision prototype developed during my software engineering
 
 ## Features
 
-- Switch the interface between supported languages
+- Switch the interface between Turkish, English, German, French, Spanish, and Arabic
 - Use the interface in light or dark theme
 - Upload vehicle photos and run YOLO-based damage detection
 - View potential damage areas, labels, and confidence scores on the image
