@@ -2,6 +2,12 @@
 
 Auto DAS is an educational prototype exploring vehicle damage detection from images using computer vision. It was developed during my software engineering internship.
 
+## Demo
+
+![Auto DAS interface showing vehicle damage detection results](autodas-demo.png)
+
+*Prototype output; detections require manual verification. Vehicle photo: jcomp / Freepik, via [Carro](https://carro.co/my/blog/4-common-damage-areas).*
+
 ## What the prototype does
 
 - Accepts a vehicle image through a Gradio interface
